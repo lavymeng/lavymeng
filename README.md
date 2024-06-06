@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavy</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
+<!--<h3 align="center">A passionate frontend developer from Cambodia</h3>-->
 
 - 👨‍💻 All of my projects are available at [https://lavy.vercel.app/](https://lavy.vercel.app/)
 
