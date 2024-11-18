@@ -3,8 +3,6 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://lavy.vercel.app/](https://lavy.vercel.app/)-->
 
-# Portfolio
-
 - 📫 How to reach me **lavymeng@gmail.com**
 
 - ⚡ Fun fact **I love taking pictures of the sky.**
